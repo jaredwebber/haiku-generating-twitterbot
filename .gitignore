@@ -158,6 +158,7 @@ hs_err_pid*
 .classpath
 .project
 .settings/
+.metadata/
 
 # Intellij
 .idea/
